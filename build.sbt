@@ -1,6 +1,6 @@
 name := "demo-kantancsv-scala"
 
-scalaVersion := "2.11.8""
+scalaVersion := "2.11.8"
 
 scalacOptions ++= Seq("-deprecation", "-feature", "-unchecked")
 
